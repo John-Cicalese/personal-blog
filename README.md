@@ -1,2 +1,2 @@
-# weather-blog
+# personal-blog
 udacity nanodegree project 1
